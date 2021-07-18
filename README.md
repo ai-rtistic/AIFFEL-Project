@@ -18,7 +18,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD9|다양한 데이터 전처리 기법|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD09_Data_Preprocessing.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-08-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC-Data-Preprocessing)|
 |FD10|탐색적 데이터 분석 EDA|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD10_EDA.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-09-%ED%83%90%EC%83%89%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-EDA)|
 |FD11|Scikit-Learn 으로 구현하는 머신러닝|-|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-10-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-Scikit-learn)|
-|FD12|파이썬으로 이미지 파일 다루기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD12_Image_with_Pillow_OpenCV.ipynb)|-|
+|FD12|파이썬으로 이미지 파일 다루기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD12_Image_with_Pillow_OpenCV.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-11-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-Pillow-OpenCV)|
 ||||
 ||||
 ||||
