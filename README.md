@@ -25,7 +25,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 
 
 ## Exploration
-||Contents|Github Link| |Project|Github Link|
+||Contents|Github Link||Project|Github Link|
 |:----:|----|:----:|----|----|:----:|
 |EP1|MNIST 숫자 손글씨 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_MNIST.ipynb)||가위바위보 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_Rock-Paper-Scissors.ipynb)|
 |EP2|Iris 품종 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Iris_Classification.ipynb)||Toy Dataset 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Toy_Dataset_Classification.ipynb)|
