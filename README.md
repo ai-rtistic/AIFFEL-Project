@@ -4,7 +4,7 @@ __AIFFEL 교육 과정 실습 및 프로젝트 정리__
 ABOUT AIFFEL : [:school: AIFFEL](https://aiffel.io/)  
 BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 
-## Fundamental
+## :white_check_mark: Fundamental
 ||Contents|Github Link|Blog Link|
 |:----:|----|:----:|:----:|
 |FD1|인공지능 개발자가 되기 위한 위대한 첫걸음|-|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-01-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)|
@@ -19,12 +19,12 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD10|탐색적 데이터 분석 EDA|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD10_EDA.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-09-%ED%83%90%EC%83%89%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-EDA)|
 |FD11|Scikit-Learn 으로 구현하는 머신러닝|-|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-10-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-Scikit-learn)|
 |FD12|파이썬으로 이미지 파일 다루기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD12_Image_with_Pillow_OpenCV.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-11-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-Pillow-OpenCV)|
-||||
-||||
-||||
+|FD13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|-|-|
+|FD14||||
+|||||
 
 
-## Exploration
+## :white_check_mark: Exploration
 ||Contents|Github Link||Project|Github Link|
 |:----:|----|:----:|----|----|:----:|
 |EP1|MNIST 숫자 손글씨 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_MNIST.ipynb)||가위바위보 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_Rock-Paper-Scissors.ipynb)|
@@ -33,7 +33,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |||||||
 
 
-## 풀잎스쿨  Python Master
+## :white_check_mark: 풀잎스쿨  Python Master
 ||Contents|Blog Link|
 |:----:|----|:----:|
 |PM1|기본연산, 입력, 출력, 문자열|[:memo:](https://velog.io/@leejaejun/AIFFEL-Python-Master-%ED%95%B5%EC%8B%AC%EC%A0%95%EB%A6%AC-01)|
