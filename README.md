@@ -19,17 +19,17 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD10|탐색적 데이터 분석 EDA|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD10_EDA.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-09-%ED%83%90%EC%83%89%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-EDA)|
 |FD11|Scikit-Learn 으로 구현하는 머신러닝|-|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-10-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-Scikit-learn)|
 |FD12|파이썬으로 이미지 파일 다루기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD12_Image_with_Pillow_OpenCV.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-11-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-Pillow-OpenCV)|
-|FD13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|-|-|
-|FD14||||
-|||||
+|FD13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Fundamental/FD13_N-Syroid_Dice_with_Class.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-12-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-OOP)|
+|FD14|딥러닝과 신경망의 본질|||
+|FD15|딥러닝 들여다보기|||
 
 
 ## :white_check_mark: Exploration
-||Contents|Github Link||Project|Github Link|
-|:----:|----|:----:|----|----|:----:|
-|EP1|MNIST 숫자 손글씨 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_MNIST.ipynb)||가위바위보 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_Rock-Paper-Scissors.ipynb)|
-|EP2|Iris 품종 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Iris_Classification.ipynb)||Toy Dataset 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Toy_Dataset_Classification.ipynb)|
-|||||||
+||Contents|Github Link|Project|Github Link|Blog Link|
+|:----:|----|:----:|----|:----:|:----:|
+|EP1|MNIST 숫자 손글씨 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_MNIST.ipynb)|가위바위보 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_Rock-Paper-Scissors.ipynb)||
+|EP2|Iris 품종 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Iris_Classification.ipynb)|Toy Dataset 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Toy_Dataset_Classification.ipynb)||
+|EP3|카메라 스티커앱 만들기 첫걸음|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Exploration/EP03_Face_Recognition_Sticker_Application.ipynb)|얼굴인식 스티커를 이용한 캣벤져스|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Exploration/EP03_Face_Recognition_Cat_Avengers.ipynb)||
 |||||||
 
 
