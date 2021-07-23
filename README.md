@@ -10,7 +10,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD1|인공지능 개발자가 되기 위한 위대한 첫걸음||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-01-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)|
 |FD2|개발자를 위한 첫 번째 필수 교양||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-01-Git-Github) [:memo:](https://velog.io/@leejaejun/AIFFEL-FD-01-2-Jupyter-Notebook-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)|
 |FD3|터미널로 배우는 리눅스 운영체제||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-02-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)|
-|FD4|파이썬 기초|-|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-04-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EA%B8%B0%EC%B4%88)|
+|FD4|파이썬 기초||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-04-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EA%B8%B0%EC%B4%88)|
 |FD5|텍스트 문자열, 파일 다루기||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-05-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0)|
 |FD6|파이썬 응용|||
 |FD7|Array와 Table을 이용하여 Data 표현||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-06-Numpy-Pandas)|
