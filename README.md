@@ -32,7 +32,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |:----:|----|:----:|----|:----:|:----:|
 |EP1|MNIST 숫자 손글씨 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_MNIST.ipynb)|가위바위보 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_Rock-Paper-Scissors.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-EP-01-Image-Classification)|
 |EP2|Iris 품종 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Iris_Classification.ipynb)|Toy Dataset 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Toy_Dataset_Classification.ipynb)||
-|EP3|카메라 스티커앱 만들기 첫걸음|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Exploration/EP03_Face_Recognition_Sticker_Application.ipynb)|얼굴인식 스티커를 이용한 캣벤져스|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Exploration/EP03_Face_Recognition_Cat_Avengers.ipynb)||
+|EP3|카메라 스티커앱 만들기 첫걸음|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Exploration/EP03_Face_Recognition_Sticker_Application.ipynb)|얼굴인식 스티커를 이용한 캣벤져스|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/e7cc38651ca2f698092bffa0c28112311cae5d48/Exploration/EP03_Face_Recognition_Cat_Avengers.ipynb)||
 |||||||
 
 
