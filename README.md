@@ -20,8 +20,11 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD11|Scikit-Learn 으로 구현하는 머신러닝||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-10-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-Scikit-learn)|
 |FD12|파이썬으로 이미지 파일 다루기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD12_Image_with_Pillow_OpenCV.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-11-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-Pillow-OpenCV)|
 |FD13|당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/f8c42f660afa5b3ec3e6f626d3beab37f0e91a17/Fundamental/FD13_N-Syroid_Dice_with_Class.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-12-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-OOP)|
-|FD14|딥러닝과 신경망의 본질|||
-|FD15|딥러닝 들여다보기|||
+|FD14|딥러닝과 신경망의 본질||[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-13-%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%98-%EB%B3%B8%EC%A7%88)|
+|FD15|딥러닝 들여다보기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD15_Deep_Learning_with_Numpy.ipynb)||
+|FD16|선형 회귀와 로지스틱 회귀|||
+|FD17|비지도학습|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD17_Unsupervised_Learning.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-14-%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5-Unsupervised-Learning)|
+|FD18|Tensorflow2 API|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD18_Tensorflow2_API.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-15-Tensorflow2-API)|
 
 
 ## :white_check_mark: Exploration
