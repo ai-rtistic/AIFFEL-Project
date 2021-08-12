@@ -25,17 +25,23 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD16|선형 회귀와 로지스틱 회귀|||
 |FD17|비지도학습|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD17_Unsupervised_Learning.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-14-%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5-Unsupervised-Learning)|
 |FD18|Tensorflow2 API|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD18_Tensorflow2_API.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-15-Tensorflow2-API)|
+|FD19|딥네트워크|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD19_Deep_Network.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-16-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+|||||
 
-
+----
 ## :white_check_mark: Exploration
 ||Contents|Github Link|Project|Github Link|Blog Link|
 |:----:|----|:----:|----|:----:|:----:|
 |EP1|MNIST 숫자 손글씨 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_MNIST.ipynb)|가위바위보 이미지 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP01_Rock-Paper-Scissors.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-EP-01-Image-Classification)|
-|EP2|Iris 품종 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Iris_Classification.ipynb)|Toy Dataset 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Toy_Dataset_Classification.ipynb)||
+|EP2|Iris 품종 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Iris_Classification.ipynb)|Toy Dataset 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP02_Toy_Dataset_Classification.ipynb)|[:memo:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP04_Text_Generation_Shakespeare.ipynb)|
 |EP3|카메라 스티커앱 만들기 첫걸음|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP03_Face_Recognition_Sticker_Application.ipynb)|얼굴인식 스티커를 이용한 캣벤져스|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP03_Face_Recognition_Cat_Avengers.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-EP-03-Face-Recognition)|
-|EP04||||||
+|EP4|연극 대사 문장 생성|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP04_Text_Generation_Shakespeare.ipynb)|AI 작사가 만들기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP04_Text_Generation_Shakespeare.ipynb)||
+|EP5|닮은 얼굴 이미지 찾기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP05_Face_Embedding_Similarity.ipynb)|나랑 닮은 꼴 연예인 찾기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP05_Look-alike_Celebrities.ipynb)||
+|EP6|Kaggle KaKR Baseline|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP06_Kaggle_KaKR_Baseline.ipynb)|Kaggle 집값 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP06_Kaggle_House_Price_Prediction.ipynb)||
+|EP7|IMDb 영화 리뷰 감성분석 및 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP07_Text_Sentiment_Classification.ipynb)|네이버 영화 리뷰 감성분석 및 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP07_Naver_Movie_Sentiment_Classification.ipynb)||
+|EP8|인물 사진 모드 만들기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP08_Image_Segmentation_Shallow_Focus.ipynb)|Shallow Focus, 크로마키|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP08_Image_Segmentation_Project.ipynb)||
 
-
+----
 ## :white_check_mark: 풀잎스쿨  Python Master
 ||Contents|Blog Link|
 |:----:|----|:----:|
