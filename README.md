@@ -40,6 +40,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP6|Kaggle KaKR Baseline|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP06_Kaggle_KaKR_Baseline.ipynb)|Kaggle 집값 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP06_Kaggle_House_Price_Prediction.ipynb)||
 |EP7|IMDb 영화 리뷰 감성분석 및 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP07_Text_Sentiment_Classification.ipynb)|네이버 영화 리뷰 감성분석 및 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP07_Naver_Movie_Sentiment_Classification.ipynb)||
 |EP8|인물 사진 모드 만들기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP08_Image_Segmentation_Shallow_Focus.ipynb)|Shallow Focus, 크로마키|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP08_Image_Segmentation_Project.ipynb)||
+|EP09|비숫한 아티스트 추천 시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP09_Recommender_Sysyem_Baseline.ipynb)|Movielens 영화 추천 시스템|||
 
 ----
 ## :white_check_mark: 풀잎스쿨  Python Master
