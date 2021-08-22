@@ -25,8 +25,9 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD16|선형 회귀와 로지스틱 회귀|||
 |FD17|비지도학습|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD17_Unsupervised_Learning.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-14-%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5-Unsupervised-Learning)|
 |FD18|Tensorflow2 API|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD18_Tensorflow2_API.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-15-Tensorflow2-API)|
-|FD19|딥네트워크|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD19_Deep_Network.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-16-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-|FD20|딥러닝 레이어 - Linear, Convolution|||
+|FD19|딥네트워크|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD19_Deep_Network.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-16-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)|
+|FD20|딥러닝 레이어 - Linear, Convolution|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD20_Deep_Layer_Linear_Convolution.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-17-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4-Linear-Convolution)|
+||||
 
 ----
 ## :white_check_mark: Exploration
