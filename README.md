@@ -27,7 +27,12 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD18|Tensorflow2 API|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD18_Tensorflow2_API.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-15-Tensorflow2-API)|
 |FD19|딥네트워크|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD19_Deep_Network.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-16-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)|
 |FD20|딥러닝 레이어 - Linear, Convolution|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD20_Deep_Layer_Linear_Convolution.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-17-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4-Linear-Convolution)|
-||||
+|FD21|딥러닝 레이어 - Embedding, Recurrent|[:link](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD21_Deep_Layer_Embedding_Recurrent.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-18-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4-Embedding-Recurrent)|
+|FD22|Regularization, Normalization|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD22_Regularization_Normalization.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-19-Regularization-Normalization)|
+|FD23|활성화 함수|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD23_Activation_Function.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-20-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98%EC%9D%98-%EC%9D%B4%ED%95%B4)|
+|FD24|Likelihood, MLE, MAP|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD24_Likelihood_MLE_MAP.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-21-LikelihoodMLE-MAP)|
+|||||
+
 
 ----
 ## :white_check_mark: Exploration
@@ -52,4 +57,5 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |PM2|자료형, 조건문, 반복문|[:memo:](https://velog.io/@leejaejun/AIFFEL-Python-Master-%ED%95%B5%EC%8B%AC%EC%A0%95%EB%A6%AC-02-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8)|
 |PM3|파일 입출력, 함수|[:memo:](https://velog.io/@leejaejun/AIFFEL-Python-Master-%ED%95%B5%EC%8B%AC%EC%A0%95%EB%A6%AC-03-%ED%8C%8C%EC%9D%BC-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%95%A8%EC%88%98)|
 |PM4|클래스|[:memo:](https://velog.io/@leejaejun/AIFFEL-Python-Master-%ED%95%B5%EC%8B%AC%EC%A0%95%EB%A6%AC-04-%ED%81%B4%EB%9E%98%EC%8A%A4)|
+|PM5|이터레이터와 제너레이터|[:memo:](https://velog.io/@leejaejun/AIFFEL-Python-Master-%ED%95%B5%EC%8B%AC%EC%A0%95%EB%A6%AC-05-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0Iterator%EC%99%80-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0Generator)|
 
