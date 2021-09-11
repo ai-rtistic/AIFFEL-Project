@@ -27,7 +27,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD18|Tensorflow2 API|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/5f5b521e4551219cc35cc676a1a7a3f967de7dee/Fundamental/FD18_Tensorflow2_API.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-15-Tensorflow2-API)|
 |FD19|딥네트워크|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD19_Deep_Network.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-16-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)|
 |FD20|딥러닝 레이어 - Linear, Convolution|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD20_Deep_Layer_Linear_Convolution.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-17-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4-Linear-Convolution)|
-|FD21|딥러닝 레이어 - Embedding, Recurrent|[:link](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD21_Deep_Layer_Embedding_Recurrent.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-18-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4-Embedding-Recurrent)|
+|FD21|딥러닝 레이어 - Embedding, Recurrent|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD21_Deep_Layer_Embedding_Recurrent.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-18-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4-Embedding-Recurrent)|
 |FD22|Regularization, Normalization|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD22_Regularization_Normalization.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-19-Regularization-Normalization)|
 |FD23|활성화 함수|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD23_Activation_Function.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-20-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98%EC%9D%98-%EC%9D%B4%ED%95%B4)|
 |FD24|Likelihood, MLE, MAP|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD24_Likelihood_MLE_MAP.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-21-LikelihoodMLE-MAP)|
@@ -48,7 +48,12 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP7|IMDb 영화 리뷰 감성분석 및 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP07_Text_Sentiment_Classification.ipynb)|네이버 영화 리뷰 감성분석 및 분류|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP07_Naver_Movie_Sentiment_Classification.ipynb)||
 |EP8|인물 사진 모드 만들기|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP08_Image_Segmentation_Shallow_Focus.ipynb)|Shallow Focus, 크로마키|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP08_Image_Segmentation_Project.ipynb)||
 |EP09|비숫한 아티스트 추천 시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP09_Recommender_Sysyem_Baseline.ipynb)|Movielens 영화 추천 시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP09_Moivelens_Recommender_Sysyem.ipynb)||
-|||||
+|EP10|텍스트 추출적/추상적 요약|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP10_Text_Extractive_Summarization.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP10_Text_Abstractive_Summarization.ipynb)|뉴스 요약봇|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP10_News_Summarization.ipynb)||
+|EP11|페렴 진단 Baseline|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP11_Pneumonia%20Diagnosis_Baseline.ipynb)|페렴 진단 Project|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP11_Pneumonia_Diagnosis_Project.ipynb)||
+|EP12|세션 기반 추천시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP12_Session_Based_Recommendation.ipynb)|Movielens 세션 기반 추천시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP12_Movielens_Session_Based_Recommendation.ipynb)||
+|EP13|생성형 모델 DCGAN|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_CIFAR10_Project.ipynb)|DCGAN을 이용한 패션 디자인|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_Fashion_MNIST.ipynb)||
+|EP|-|[:link:]()|-|[:link:]()||
+
 
 ----
 ## :white_check_mark: 풀잎스쿨  Python Master
