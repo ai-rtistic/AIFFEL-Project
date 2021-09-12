@@ -52,6 +52,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP11|페렴 진단 Baseline|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP11_Pneumonia%20Diagnosis_Baseline.ipynb)|페렴 진단 Project|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP11_Pneumonia_Diagnosis_Project.ipynb)||
 |EP12|세션 기반 추천시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP12_Session_Based_Recommendation.ipynb)|Movielens 세션 기반 추천시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP12_Movielens_Session_Based_Recommendation.ipynb)||
 |EP13|생성형 모델 DCGAN|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_CIFAR10_Project.ipynb)|DCGAN을 이용한 패션 디자인|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_Fashion_MNIST.ipynb)||
+|EP14|시계열 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP14_Time_Series_Prediction.ipynb)|주식 시세 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP14_Stock_Prediction.ipynb)||
 |EP|-|[:link:]()|-|[:link:]()||
 
 
