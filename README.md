@@ -32,7 +32,9 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD23|활성화 함수|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD23_Activation_Function.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-20-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98%EC%9D%98-%EC%9D%B4%ED%95%B4)|
 |FD24|Likelihood, MLE, MAP|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD24_Likelihood_MLE_MAP.ipynb)|[:memo:](https://velog.io/@leejaejun/AIFFEL-FD-21-LikelihoodMLE-MAP)|
 |FD25|컴퓨팅 파워, Multi-Tasking|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD25_Multi-tasking.ipynb)||
-|FD26|데이터 베이스||
+|FD26|데이터 베이스|||
+|FD27|SQL|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD27_SQL.ipynb)||
+|||||
 
 
 ----
