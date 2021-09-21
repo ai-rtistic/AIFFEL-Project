@@ -55,7 +55,9 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP12|세션 기반 추천시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP12_Session_Based_Recommendation.ipynb)|Movielens 세션 기반 추천시스템|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP12_Movielens_Session_Based_Recommendation.ipynb)||
 |EP13|생성형 모델 DCGAN|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_CIFAR10_Project.ipynb)|DCGAN을 이용한 패션 디자인|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_Fashion_MNIST.ipynb)||
 |EP14|시계열 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP14_Time_Series_Prediction.ipynb)|주식 시세 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP14_Stock_Prediction.ipynb)||
-|EP|-|[:link:]()|-|[:link:]()||
+|EP15|대화형 챗봇(영어)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP15_Conversational_Chatbot_ENG.ipynb)|대화형 챗봇(한국어)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP15_Conversational_Chatbot_KOR.ipynb)||
+|EP||[:link:]()||[:link:]()|||
+
 
 
 ----
