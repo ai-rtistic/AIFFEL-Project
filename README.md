@@ -34,7 +34,8 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD25|컴퓨팅 파워, Multi-Tasking|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD25_Multi-tasking.ipynb)||
 |FD26|데이터 베이스|||
 |FD27|SQL|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD27_SQL.ipynb)||
-|||||
+|FD28|웹 크롤링|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD28_Web_Crawling.ipynb)||
+|FD29|Flask 로 전처리 웹 만들기|||
 
 
 ----
