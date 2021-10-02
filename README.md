@@ -57,8 +57,9 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP13|생성형 모델 DCGAN|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_CIFAR10_Project.ipynb)|DCGAN을 이용한 패션 디자인|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP13_DCGAN_Fashion_MNIST.ipynb)||
 |EP14|시계열 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP14_Time_Series_Prediction.ipynb)|주식 시세 예측|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP14_Stock_Prediction.ipynb)||
 |EP15|대화형 챗봇(영어)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP15_Conversational_Chatbot_ENG.ipynb)|대화형 챗봇(한국어)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP15_Conversational_Chatbot_KOR.ipynb)||
-|EP16|이미지 고해상도 변환 Super Resolution|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP16_Super_Resolution.ipynb)|GIF 변환 SRGAN Project|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP16_SRGAN_Project.ipynb)|||
-|EP||[:link:]()||[:link:]()|||
+|EP16|이미지 고해상도 변환 Super Resolution|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP16_Super_Resolution.ipynb)|GIF 변환 SRGAN Project|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP16_SRGAN_Project.ipynb)||
+|EP17|KorQuAD QnA 모델(BERT)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP17_KorQuAD_QnA.ipynb)|KorQuAD QnA Pretrained|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP17_KorQuAD_QnA_Project.ipynb)||
+||||||
 
 
 
