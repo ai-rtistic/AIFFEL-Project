@@ -64,6 +64,26 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP18|문자 인식 기술 OCR|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP18_OCR.ipynb)|주민등록증, 운전면허증 OCR|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP18_OCR_ID_Check_Project.ipynb)|
 |||||
 
+----
+## :white_check_mark: Going Deeper CV
+||Contents|GitHub Link|Blog Link|
+|:----:|----|:----:|:----:|
+|GD01|백본 네트워크 구조 상세분석|||
+||||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----
