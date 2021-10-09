@@ -37,6 +37,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |FD28|웹 크롤링|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Fundamental/FD28_Web_Crawling.ipynb)||
 |FD29|Flask 로 전처리 웹 만들기|||
 |FD30|맵리듀스로 그리는 빅데이터|||
+|||
 
 
 
@@ -61,8 +62,9 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |EP15|대화형 챗봇(영어)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP15_Conversational_Chatbot_ENG.ipynb)|대화형 챗봇(한국어)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP15_Conversational_Chatbot_KOR.ipynb)||
 |EP16|이미지 고해상도 변환 Super Resolution|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP16_Super_Resolution.ipynb)|GIF 변환 SRGAN Project|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP16_SRGAN_Project.ipynb)||
 |EP17|KorQuAD QnA 모델(BERT)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP17_KorQuAD_QnA.ipynb)|KorQuAD QnA Pretrained|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP17_KorQuAD_QnA_Project.ipynb)||
-|EP18|문자 인식 기술 OCR|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP18_OCR.ipynb)|주민등록증, 운전면허증 OCR|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP18_OCR_ID_Check_Project.ipynb)|
-|||||
+|EP18|문자 인식 기술 OCR|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP18_OCR.ipynb)|주민등록증, 운전면허증 OCR|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP18_OCR_ID_Check_Project.ipynb)||
+|EP19|cGAN, Pix2Pix|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP19_cGAN_MNIST.ipynb), [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP19_Pix2Pix.ipynb)|Segmentation map 도로 이미지|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Exploration/EP19_Pix2Pix_Segmentation_map_Project.ipynb)||
+||
 
 ----
 ## :white_check_mark: Going Deeper CV
