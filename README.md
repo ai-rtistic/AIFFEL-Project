@@ -71,7 +71,10 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 ||Contents|GitHub Link|Blog Link|
 |:----:|----|:----:|:----:|
 |GD01|백본 네트워크 구조 상세분석|||
-|GD02|Abalation Study (ResNet, VGG)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD02_Ablation_Study_ResNet.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD02_Ablation_Study_VGG.ipynb)|
+|GD02|Abalation Study (ResNet, VGG)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD02_Ablation_Study_ResNet.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD02_Ablation_Study_VGG.ipynb)||
+|GD03|Data Augmentation|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD03_Data_Augmentation.ipynb)||
+|||||
+
 
 
 
