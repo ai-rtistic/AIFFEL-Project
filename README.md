@@ -74,7 +74,8 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |GD02|Abalation Study (ResNet, VGG)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD02_Ablation_Study_ResNet.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD02_Ablation_Study_VGG.ipynb)||
 |GD03|Data Augmentation|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD03_Data_Augmentation.ipynb)||
 |GD04|ResNet50 with Augmentation (Cutmix,Mixup)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD04_Augmentation_ResNet50.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD04_Augmentation_Cutmix_Mixup.ipynb)||
-
+|GD05|Class Activation Map|||
+|||||
 
 
 
