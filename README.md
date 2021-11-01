@@ -75,6 +75,7 @@ BLOG : [leejaejun.log](https://velog.io/@leejaejun)
 |GD03|Data Augmentation|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD03_Data_Augmentation.ipynb)||
 |GD04|ResNet50 with Augmentation (Cutmix,Mixup)|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD04_Augmentation_ResNet50.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD04_Augmentation_Cutmix_Mixup.ipynb)||
 |GD05|Class Activation Map|||
+|GD06|CAM, Grad-CAM|[:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD06_CAM_Grad-CAM_Detection.ipynb) [:link:](https://github.com/jaejunlee96/AIFFEL-Project/blob/master/Going%20Deeper%20CV/GD06_CAM_Project.ipynb)||
 |||||
 
 
